@@ -1,7 +1,7 @@
-# 🙏 Hello I am Bhavesh Kapade 🙏
+# 👋 Hi, I'm Bhavesh Kapade
 
-# About US
-## As an engineering student, I am driven by my passion for learning and my commitment to honesty with myself and others. My proficiency spans across a variety of programming languages including Python, Java, dart & flutter, and JavaScript. With a keen aptitude for grasping new concepts swiftly, I am always eager to expand my knowledge base. I am currently seeking an entry-level position where I can leverage my skills and expertise to contribute meaningfully to a team's objectives. My goal is to make a positive impact through dedication, hard work, and continuous growth in the field of engineering.💫💫💫
+I am a passionate Software Developer with experience in Flutter, Dart, Java, JavaScript, and REST API integration. I enjoy building scalable, user-friendly, and high-performance applications while continuously learning new technologies and development practices.
 
+With hands-on experience in cross-platform mobile application development, state management, API integration, and responsive UI design, I am committed to writing clean, maintainable, and efficient code. I have a strong interest in mobile app development, software engineering, and problem-solving.
 
-
+I am always eager to take on new challenges, collaborate with talented teams, and contribute to innovative projects that create meaningful impact. My goal is to continuously grow as a developer while delivering high-quality software solutions.
